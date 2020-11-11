@@ -1,0 +1,11 @@
+{
+    "name": "axios-mid-js",
+    "npmname": "axios-mid-js",
+    "umdname": "axios-mid-js",
+    "username": "axios-mid-js",
+    "type": "js",
+    "module": "umd,esm,commonjs",
+    "test": "mocha",
+    "lang": "zh",
+    "version": "1.6.0"
+}
