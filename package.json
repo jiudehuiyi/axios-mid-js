@@ -59,6 +59,7 @@
     "source-map-support": "0.5.9"
   },
   "dependencies": {
-    "@babel/runtime": "^7.1.2"
+    "@babel/runtime": "^7.1.2",
+    "express": "^4.17.1"
   }
 }
